@@ -34,7 +34,7 @@ If you have any questions, want to become one of our sponsors, or simply wish to
 
 🌐 [Website](www.lothrobotics.com)
 
-📱 Social Media: [Instagram](https://www.instagram.com/lothrobotics/) | [Twitter](https://twitter.com/LothRobotics) | [Github](https://github.com/LothRobotics)
+📱 Social Media: [Instagram](https://www.instagram.com/lothrobotics/) | [Twitter](https://twitter.com/LothRobotics)
 
 📍 Location: Sakıp Sabancı Anadolu Lisesi, Beşiktaş, Istanbul, Turkey
 
