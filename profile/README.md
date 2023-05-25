@@ -13,6 +13,8 @@ Loth Robotics actively participates in the FIRST Robotics Competition (FRC), whe
 ### Raylı Sistemler Yarışması (Railway Systems Competition) 🚂
 Loth Robotics takes great pride in organizing the first railway systems competition in Turkey, sponsored by İBB (The Istanbul Metropolitan Municipality). This event aims to promote interest and expertise in the field of railway systems, inspire creative solutions, and foster collaboration among students, professionals, and enthusiasts. 🏅
 
+For more information about the competition, please visit our dedicated website: [Raylı Sistemler Yarışması](https://raylisistem.lothrobotics.com/)
+
 ### TEKNOFEST Competitions ✈️
 We enthusiastically participate in TEKNOFEST, Turkey's largest aerospace and technology festival. Through TEKNOFEST's diverse range of competitions, we have the opportunity to demonstrate our skills in robotics, showcase innovative projects, and interact with leading industry professionals, academics, and technology enthusiasts.
 
